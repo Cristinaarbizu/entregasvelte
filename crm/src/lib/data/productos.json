@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ensalada de quinoa",
+        "categoria": "Platos preparados",
+        "precio": 8.99,
+        "calorias": 350,
+        "stock": 20
+    },
+    {
+        "id": 2,
+        "nombre": "Batido verde detox",
+        "categoria": "Bebidas",
+        "precio": 5.50,
+        "calorias": 120,
+        "stock": 30
+    },
+    {
+        "id": 3,
+        "nombre": "Bowl de açaí",
+        "categoria": "Desayunos",
+        "precio": 7.25,
+        "calorias": 280,
+        "stock": 15
+    },
+    {
+        "id": 4,
+        "nombre": "Wrap de hummus y vegetales",
+        "categoria": "Snacks",
+        "precio": 6.75,
+        "calorias": 310,
+        "stock": 25
+    },
+    {
+        "id": 5,
+        "nombre": "Salmón al horno con verduras",
+        "categoria": "Platos principales",
+        "precio": 12.99,
+        "calorias": 420,
+        "stock": 10
+    }
+]
